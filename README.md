@@ -188,6 +188,20 @@ Submissions are evaluated using the F₂-score with a 1000Å distance threshold:
 - Ultralytics for YOLOv8 implementation
 - Kaggle for computing resources
 
+## References
+
+Darley, A., Owens, B., Morse, B., Lonsdale, E., Hart, G., Pond, J., Blaser, J., Gomez Paz, M., Ward, M., Webb, R., Crowther, A., Smith, N., Jensen, G. J., Hart, T. J., Demkin, M., Reade, W., & Park, E. (2025). BYU - Locating Bacterial Flagellar Motors 2025. Kaggle. https://kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025
+
+```
+@misc{byu-locating-bacterial-flagellar-motors-2025,
+    author = {Andrew Darley and Braxton Owens and Bryan Morse and Eben Lonsdale and Gus Hart and Jackson Pond and Joshua Blaser and Matias Gomez Paz and Matthew Ward and Rachel Webb and Andrew Crowther and Nathan Smith and Grant J. Jensen and TJ Hart and Maggie Demkin and Walter Reade and Elizabeth Park},
+    title = {BYU - Locating Bacterial Flagellar Motors 2025},
+    year = {2025},
+    howpublished = {\url{https://kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025}},
+    note = {Kaggle}
+}
+```
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
