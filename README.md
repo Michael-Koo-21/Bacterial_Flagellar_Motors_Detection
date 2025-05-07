@@ -185,15 +185,6 @@ Submissions are evaluated using the F₂-score with a 1000Å distance threshold:
 ## Acknowledgments
 
 - BYU Locating Bacterial Flagellar Motors 2025 Kaggle competition organizers
-
-@misc{byu-locating-bacterial-flagellar-motors-2025,
-    author = {Andrew Darley and Braxton Owens and Bryan Morse and Eben Lonsdale and Gus Hart and Jackson Pond and Joshua Blaser and Matias Gomez Paz and Matthew Ward and Rachel Webb and Andrew Crowther and Nathan Smith and Grant J. Jensen and TJ Hart and Maggie Demkin and Walter Reade and Elizabeth Park},
-    title = {BYU - Locating Bacterial Flagellar Motors 2025},
-    year = {2025},
-    howpublished = {\url{https://kaggle.com/competitions/byu-locating-bacterial-flagellar-motors-2025}},
-    note = {Kaggle}
-}
-
 - Ultralytics for YOLOv8 implementation
 - Kaggle for computing resources
 
